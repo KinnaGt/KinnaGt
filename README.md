@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Mobile Development with Flutter and Kotlin
-- ![Uploading image.png…]()
 
 ![2471303](https://user-images.githubusercontent.com/81035527/156272639-797f3aac-d079-41a1-a4a1-72a3b1ef4b6e.gif)
