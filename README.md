@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Mobile Development with Flutter and Kotlin
+- 🔭 I’m currently working on Videogames Development
 
 ![2471303](https://user-images.githubusercontent.com/81035527/156272639-797f3aac-d079-41a1-a4a1-72a3b1ef4b6e.gif)
