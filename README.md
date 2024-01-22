@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Videogames Development
-- GD wizzard enthusiast
+- :tophat: GD wizzard enthusiast
 
 ![Wallpaper](https://github.com/KinnaGt/KinnaGt/assets/81035527/5ee09726-6ea3-4a55-b108-b0d90ab3c8e5)
