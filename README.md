@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there 🕹️
 
 
 - 🔭 I’m currently working on Videogames and Mobile Development
