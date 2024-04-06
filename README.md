@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on Videogames and Mobile Development
 - :tophat: GD wizzard enthusiast
 
-![Wallpaper](https://github.com/KinnaGt/KinnaGt/assets/81035527/5ee09726-6ea3-4a55-b108-b0d90ab3c8e5)
+<img src="https://media.giphy.com/media/go3pCPP4899Jd3xb4p/giphy.gif" alt="GIF from GIPHY">
