@@ -19,10 +19,14 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2IyMDZkNnJtcWFtbjJma3M1ZzVhN3RobjAzZGw1NTIzcXhxM2YzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3LWT8oT1LAg0Ik5ud8/giphy-downsized-large.gif" alt="GIF of Rojo" style="width: 100%;">
     </a>
   </div>
+  <div style="flex: 1 1 50%; padding: 10px;">
+    <a href="[https://giphy.com/gifs/JQmYLubZfhm8uz1Odr](https://kinnaway.itch.io/rojo)">
+    <img src="https://media.giphy.com/media/JQmYLubZfhm8uz1Odr/giphy.gif" alt="GIF">
+    </a>
+  </div>
   <!-- Agregar más imágenes aquí -->
 </div>
 
-![GIF](https://media.giphy.com/media/JQmYLubZfhm8uz1Odr/giphy.gif)
 
   ### Coming soon...
 
