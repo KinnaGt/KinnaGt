@@ -20,7 +20,7 @@
     </a>
   </div>
   <div style="flex: 1 1 50%; padding: 10px;">
-    <a href="[https://giphy.com/gifs/JQmYLubZfhm8uz1Odr](https://kinnaway.itch.io/rojo)">
+    <a href="https://kinnaway.itch.io/verde">
     <img src="https://media.giphy.com/media/JQmYLubZfhm8uz1Odr/giphy.gif" alt="GIF">
     </a>
   </div>
