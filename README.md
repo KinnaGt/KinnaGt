@@ -2,7 +2,7 @@
   
   ### Hi there 🕹️
   
-  🔭 I’m currently working on Videogames and Mobile Development
+  🔭 I’m currently working on Videogames and Backend Development
 
   :tophat: GD wizard enthusiast
 
